@@ -1,5 +1,5 @@
 # CassavaLeaf
-Cassava Leaf 2020 competition repository https://www.kaggle.com/c/cassava-leaf-disease-classification
+<a href="https://www.kaggle.com/c/cassava-leaf-disease-classification">Cassava Leaf 2020 competition</a> repository 
 
 Where is realization of Cassava Leaf Competitin pipeline. 
 
